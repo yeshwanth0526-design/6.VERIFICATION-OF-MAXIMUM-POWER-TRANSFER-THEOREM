@@ -43,7 +43,9 @@ voltage (VL) in volts	Load Power (PL) in watts
 2.				
 3.				
 4.				
-5.				
+5.			
+
+
 
 
 **TABLE (2): FOR PRACTICAL CALCULATION**
@@ -56,10 +58,20 @@ voltage (VL) in volts	Load Power (PL) in watts
 2.				
 3.				
 4.				
-5.				
+5.			
+
+![WhatsApp Image 2026-03-29 at 4 20 57 PM](https://github.com/user-attachments/assets/15895b8a-be37-4a6f-81fc-3abac0d26f33)
+
+
+
 
 
 **MODEL CALCULATION:**
+
+![WhatsApp Image 2026-03-29 at 4 21 14 PM](https://github.com/user-attachments/assets/e1456e4a-014f-4d7a-a474-d4651cb8f9ab)
+![WhatsApp Image 2026-03-29 at 4 21 24 PM](https://github.com/user-attachments/assets/57e042f3-87d8-4d2b-9ee4-86b616752998)
+![WhatsApp Image 2026-03-29 at 4 21 46 PM](https://github.com/user-attachments/assets/5752d815-7dcc-49dd-828f-6f825430b13f)
+
 
 **PROCEDURE:**
 
@@ -72,6 +84,9 @@ voltage (VL) in volts	Load Power (PL) in watts
 4.	Verify the measured values of RL at maximum power transfer as same as calculated and found graphically.
 
 **RESULT:**
+
+![WhatsApp Image 2026-03-29 at 4 21 57 PM](https://github.com/user-attachments/assets/3e574ea5-5c60-4610-a164-bbc2a78f0708)
+
 
 Thus maximum power transfer theorem is verified practically and theoretically
 
